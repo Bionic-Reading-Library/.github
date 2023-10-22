@@ -1,4 +1,4 @@
-## Hi there, Welcome to BRL (Bionic Reading Library)
+# 👋 Hi there, Welcome to BRL (Bionic Reading Library)
 
 Here at BRL our goal is to Enhance your reading ability with advanced technology for an immersive and efficient reading experience.
 
